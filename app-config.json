@@ -1,9 +1,11 @@
 {
-  "schema": 1,
+  "schema": 2,
   "fixedAppUrl": "https://gianixxo.github.io/euroferramenta-mobile/",
   "ghostUrl": "https://gianixxo.github.io/euroferramenta-mobile/ghost.json",
+  "cloudApiUrl": "",
+  "shopId": "euroferramenta",
   "storeCode": "EF001",
   "storeSlug": "euroferramenta",
   "name": "Euroferramenta",
-  "updatedAt": "2026-08-25T21:02:12.116Z"
+  "updatedAt": "2026-08-25T21:42:12.974Z"
 }
