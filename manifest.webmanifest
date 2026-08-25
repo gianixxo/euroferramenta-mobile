@@ -1,7 +1,7 @@
 {
   "name": "Euroferramenta",
   "short_name": "Euroferramenta",
-  "start_url": "./",
+  "start_url": "./?app=fixed",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f2f5f7",
